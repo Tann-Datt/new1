@@ -50,5 +50,5 @@ return super.timeToDownload(speeds);
 	}
 	
 	}
-
+ttttt
 
